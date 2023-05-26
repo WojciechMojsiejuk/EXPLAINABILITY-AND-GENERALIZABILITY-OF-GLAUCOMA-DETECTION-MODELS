@@ -1,5 +1,6 @@
 # EXPLAINABILITY-AND-GENERALIZABILITY-OF-GLAUCOMA-DETECTION-MODELS
 Master's Thesis Materials
+[![DOI](https://zenodo.org/badge/645783799.svg)](https://zenodo.org/badge/latestdoi/645783799)
 
 ## How to navigate a project:
 
